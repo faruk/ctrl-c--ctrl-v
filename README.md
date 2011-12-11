@@ -29,11 +29,11 @@ Filesize
 
 Currently the tool is under 100 lines
 
-  $ wc views/* ctrl-c-ctrl-v.py 
-    18   53  552 views/index.tpl
-    20   39  597 views/paste.tpl
-    24   59  601 ctrl-c-ctrl-v.py
-    62  151 1750 total
+    $ wc views/* ctrl-c-ctrl-v.py 
+      18   53  552 views/index.tpl
+      20   39  597 views/paste.tpl
+      24   59  601 ctrl-c-ctrl-v.py
+      62  151 1750 total
 
 
 
