@@ -4,8 +4,8 @@
   <title>Ctrl-C -> Ctrl-V</title>
 </head>
 <body>
-<h1>Welcome to Faruk's Ctrl-C -> Ctrl-V Service</h1>
 <div class="container">
+  <h1>Welcome to Faruk's Ctrl-C -> Ctrl-V Service</h1>
   <form action = "/paste" method = "POST">
       <div class = "clearfix">
         <textarea name = "paste" class="xxlarge" id="text" name="text" rows="15"></textarea><br>
