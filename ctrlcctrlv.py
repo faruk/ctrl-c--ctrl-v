@@ -21,4 +21,8 @@ def paste():
 def getPaste(filename):
   return template('paste', file = filename)
 
-run(host='0.0.0.0', port="80", reloader = True)
+
+run(host="0.0.0.0", port = "80", reloader = True)
+#if __name__ == '__main__':
+#  debug(True)
+#  run(reloader=True)
