@@ -12,8 +12,7 @@ Installation
 ------------
 
 - clone the repository
-- execute `mkdir paste`
-- start `sudo python ctrl-c-ctrl-v.py`
+- start `sudo python ctrlcctrlv.py`
 
 Implementation
 --------------
@@ -29,10 +28,10 @@ Filesize
 
 Currently the tool is under 100 lines
 
-    $ wc views/* ctrl-c-ctrl-v.py 
+    $ wc views/* ctrlcctrlv.py 
       18   53  552 views/index.tpl
       20   39  597 views/paste.tpl
-      24   59  601 ctrl-c-ctrl-v.py
+      24   59  601 ctrlcctrlv.py
       62  151 1750 total
 
 
